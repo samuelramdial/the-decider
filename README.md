@@ -11,3 +11,8 @@ This application simulates a lightweight decision-making tool for two users. Giv
    - Otherwise, user 2 wins
 3. Both users are asked if they want to decide another option
 4. The program continues until **both** users enter `"end"` (case-insensitive).
+## Acknowledgments 
+Project developed for: 
+- **ITSC 1212 - Introduction to Computer Science I**
+- Intstructor: D.I. Von Briesen
+- University of North Carolina at Charlotte
